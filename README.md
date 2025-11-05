@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do **Hello, SQL!**, um ebook criado para quem está dando os primeiros passos no mundo dos bancos de dados e quer aprender SQL de forma simples, direta e com exemplos práticos.
 
+📘 [Clique aqui para ler o ebook completo](./Olá,%20SQL!%20-%20Ebook.pdf)
+
 ---
 
 ## 🧩 Sobre o projeto
